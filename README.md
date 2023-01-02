@@ -5,41 +5,41 @@ It is a javascript based program that you can download youtube videos via cmd.
 
 
 
-## Bilgisayarınızda Çalıştırın
+## Run it on your computer
 
-Projeyi klonlayın
+Clone the project
 
 ```bash
   git clone https://github.com/starktwo/GetTube.git
 ```
 
-Proje dizinine gidin
+Go to the project directory
 
 ```bash
   cd GetTube
 ```
 
-Gerekli paketleri yükleyin
+Install required packages
 
 ```bash
   npm install
 ```
 
-Sunucuyu çalıştırın
+Run the server
 
 ```bash
   npm run start
 ```
 
   
-## Ekran Görüntüleri
+## Screenshots
 
 ![Başlangıç](https://cdn.discordapp.com/attachments/962176878137970778/1059451196051574845/image.png)
 ![Bitiş](https://cdn.discordapp.com/attachments/962176878137970778/1059451418374832138/image.png)
 
   
-## Destek
+## Support
 
-Destek için msavasmeral@gmail.com adresine e-posta gönderin veya Discord üzerinden bana ulaşabilirsiniz (S†ark#1707).
+For support, email msavasmeral@gmail.com or you can reach me on Discord (S†ark#1707).
 
   
