@@ -1,0 +1,23 @@
+{
+
+  "name": "gettube",
+  "version": "0.0.1",
+  "description": "It is a javascript based program that you can download youtube videos via cmd.",
+  "main": "server.js",
+  "keywords": [
+    "Stark",
+    "Youtube",
+    "GetTube",
+    "Video",
+    "Download"
+  ],
+  "author": "Stark",
+  "license": "MIT",
+  "dependencies": {
+    "readline": "^1.3.0",
+    "ytdl-core": "^4.11.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
